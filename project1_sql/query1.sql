@@ -1,1 +1,2 @@
---delete this later for all 
+--delete 
+--SELECT*from company_dim
