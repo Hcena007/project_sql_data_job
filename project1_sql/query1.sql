@@ -1,2 +1,2 @@
 --delete 
---SELECT*from company_dim
+SELECT*from company_dim
